@@ -1,6 +1,11 @@
-streamlit
 pandas
-numpy
+numpy==2.2.0
+streamlit
+torch
+scikit-learn
 matplotlib
 seaborn
-scikit-learn
+plotly
+pycaret
+shap
+mlflow
